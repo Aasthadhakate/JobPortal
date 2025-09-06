@@ -1,5 +1,3 @@
-"use client"
-
 import { useState, useEffect } from "react"
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Legend, PieChart, Pie, Cell } from "recharts"
 import { Users, Briefcase, FileCheck, Calendar, ArrowUpRight, ArrowDownRight, Building, Info } from "lucide-react"
